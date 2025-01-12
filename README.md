@@ -22,7 +22,6 @@ ___
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raj12Aryan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-__
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raj12Aryan&theme=dark&hide_border=false)<br/>
 
 <div align="center">
