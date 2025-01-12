@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Raj!;" />
+</h1>
+
 # 💫 About Me:
 I am a third-year Computer Science Engineering student at Sharda University, specializing in Data Science. My strong foundation in algorithms, programming, and statistical analysis fuels my passion for Machine Learning and Artificial Intelligence.
 
