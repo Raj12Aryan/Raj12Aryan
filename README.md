@@ -21,4 +21,10 @@ I am a third-year Computer Science Engineering student at Sharda University, spe
 ---
 [![](https://visitcount.itsvg.in/api?id=Raj12Aryan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj12Aryan/Raj12Aryan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj12Aryan/Raj12Aryan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Raj12Aryan/Raj12Aryan/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
